@@ -11,3 +11,7 @@ SHAHEEN
 
 ---
 تم التطوير كجزء من مشاريع التخرج في أكاديمية طويق.
+
+export PX4_HOME_LAT=24.9777592
+export PX4_HOME_LON=46.7020021
+make px4_sitl jmavsim
