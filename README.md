@@ -1,5 +1,5 @@
 
-SHAHEEN: Autonomous Runway Sentinel
+SHAHEEN: Autonomous Runway System
 مشروع  - أكاديمية طويق
 ===================================================
 
